@@ -41,7 +41,7 @@
 
 <a rel="external" href="https://tryhackme.com/p/limes" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/limes.png" alt="TryHackMe">
 
-<a rel="external" href="https://www.codewars.com/users/DavidJKTofan/" target="_blank"><img src="https://www.codewars.com/users/DavidJKTofan/badges/large" alt="CodeWars"></a>
+<a rel="external" href="https://cybertalents.com/members/mahmoud__ashraf/profile" target="_blank"><img src="https://cybertalents.com/members/mahmoud__ashraf/profile" alt="CodeWars"></a>
 
 * * * 
 
