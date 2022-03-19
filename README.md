@@ -41,15 +41,4 @@
 
 <a rel="external" href="https://tryhackme.com/p/limes" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/limes.png" alt="TryHackMe">
 
-<a rel="external" href="https://app.hackthebox.com/profile/623522" target="_blank"><img src="https://app.hackthebox.com/profile/623522">
-
 * * * 
-
-### 📙 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Cloudflare Logpush](https://davidtofan.com/articles/cloudflare-logpush/)
-- [Cloudflare Radar](https://davidtofan.com/articles/cloudflare-radar/)
-- [Cloudflare IPFS Gateway](https://davidtofan.com/articles/cloudflare-ipfs-gateway/)
-- [Cloudflare Data Localization](https://davidtofan.com/articles/cloudflare-data-localization/)
-- [Intro to Cloudflare Workers](https://davidtofan.com/articles/cloudflare-workers/)
-<!-- BLOG-POST-LIST:END -->
