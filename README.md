@@ -1,6 +1,6 @@
-<h2> Hi, I'm Mahmoud Ashraf! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Mahmoud Ashraf! <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJi7qyku1vKA/profile-displayphoto-shrink_800_800/0/1647483416887?e=1652918400&v=beta&t=djm2lWOFF7WYF1HNtPLSkBWMIeJpVzAcXjfzpMBzBsU" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Founder and Security Consultant at <a href="http://www.unb.br">CyberWork Activity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
+<p><em>Founder and Security Consultant at <a href="https://www.linkedin.com/company/cyberwork-activity">CyberWork Activity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
