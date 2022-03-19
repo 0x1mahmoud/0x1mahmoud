@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mahmoud Ashraf! <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJi7qyku1vKA/profile-displayphoto-shrink_800_800/0/1647483416887?e=1652918400&v=beta&t=djm2lWOFF7WYF1HNtPLSkBWMIeJpVzAcXjfzpMBzBsU" width="50"></h2>
+<h2> Hi, I'm Mahmoud Ashraf! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Founder and Security Consultant at <a href="https://www.linkedin.com/company/cyberwork-activity">CyberWork Activity</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHJi7qyku1vKA/profile-displayphoto-shrink_800_800/0/1647483416887?e=1652918400&v=beta&t=djm2lWOFF7WYF1HNtPLSkBWMIeJpVzAcXjfzpMBzBsU" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
