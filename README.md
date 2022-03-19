@@ -16,6 +16,7 @@
   <img alt="Java" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img alt="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
   <img alt="SQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+  <img alt="php" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/32x32/php.png">
   <img alt="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </div>
 
