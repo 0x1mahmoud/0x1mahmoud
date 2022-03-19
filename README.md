@@ -39,7 +39,7 @@
 
 ### 🏁 CTFs
 
-< <script src="https://tryhackme.com/badge/256843"></script>
+<script src="https://tryhackme.com/badge/256843"></script>
 
 <a rel="external" href="https://www.codewars.com/users/DavidJKTofan/" target="_blank"><img src="https://www.codewars.com/users/DavidJKTofan/badges/large" alt="CodeWars"></a>
 
