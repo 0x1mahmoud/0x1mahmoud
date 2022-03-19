@@ -24,18 +24,13 @@
 
 ### 🛠️ Tools
 <div>
-  <img alt="MacOS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
   <img alt="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
   <img alt="Terminal" height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png">
   <img alt="Wordpress" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
-  <img alt="Google Drive" height="20" src="https://ssl.gstatic.com/images/branding/product/2x/drive_2020q4_48dp.png">
   <img alt="Atom" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">
   <img alt="Chrome" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png">
   <img alt="Firefox" height="20" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png">
   <img alt="Docker" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-  <img alt="Jupyter Notebook" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-  <img alt="DeepNote" height="20" src="https://deepnote.com/static/landing/logo.svg">
-  <img alt="Netlify" height="20" src="https://www.netlify.com/img/press/logos/logomark.svg">
   <img alt="Raspberry Pi" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
   <img alt="Cloudflare" height="22" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg">
 </div>
@@ -44,7 +39,7 @@
 
 ### 🏁 CTFs
 
-<a rel="external" href="https://tryhackme.com/p/davidjktofan" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe Profile Badge"></a>
+< <script src="https://tryhackme.com/badge/256843"></script>
 
 <a rel="external" href="https://www.codewars.com/users/DavidJKTofan/" target="_blank"><img src="https://www.codewars.com/users/DavidJKTofan/badges/large" alt="CodeWars"></a>
 
