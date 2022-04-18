@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Mahmoud!
 
-### 💻 Founder and Security Consultant @ CyberWork Activity
+### 💻 Jr. Security Engineer @ CyberWork Network
 
-- 🤓 I’m currently working at [CyberWork Activity](https://www.linkedin.com/company/cyberwork-activity).
+- 🤓 I’m currently working at [CyberWork Network](https://www.linkedin.com/company/cyberwork-activity).
 - 🌱 Currently Skilled in Pen-Testing, Secure Code and DevSecOps.
 - 👯 Looking to collaborate on any cybersec-related projects.
 - 💬 Ask me about anything, I would be happy to help.
