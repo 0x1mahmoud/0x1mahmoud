@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Mahmoud!
 
-### 💻 Security Architect @ MONO Services
+### 💻 Application security engineer @ MONO Services
 
-- 🤓 I’m currently working at [MONO](linkedin.com/company/Mono-services/).
 - 🌱 Currently Skilled in Pen-Testing, Secure Code and DevSecOps.
 - 👯 Looking to collaborate on any cybersec-related projects.
 - 💬 Ask me about anything, I would be happy to help.
